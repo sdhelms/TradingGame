@@ -1,0 +1,6 @@
+@TradingGame.Server_HostAddress = http://localhost:5151
+
+GET {{TradingGame.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
